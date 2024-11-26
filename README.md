@@ -1,3 +1,4 @@
+assets/vscode-icon.png 
 <h1 align="center">Olá, 👋,eu sou 0bs1dian-hub mas conhecido como Lucas</h1>
 <h3 align="center">Eu sou o 0bs1dian-hub!</h3>
 
