@@ -1,5 +1,6 @@
-<img align="left" src="https://github.com/0bs1dian-hub/0bs1dian-hub/blob/main/Titulo2.png">
-
+<p align="center">
+<img src="https://github.com/0bs1dian-hub/0bs1dian-hub/blob/main/Titulo2.png">
+</p>
 
 <h3 align="left">Sobre mim</h3>
 
