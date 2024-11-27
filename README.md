@@ -6,7 +6,6 @@
 
 
  - Como foi dito meu nome é Lucas Henrique, tenho 20 anos e sou uma pessoa que desde muito novo tenho conhecimentos na área da computação sou uma pessoa bem proativa que não consegue ficar parado quando vejo que tenho alguma coisa a fazer. Meu objetivo é me tornar um técnico muito habilidoso na área de Ti em geral.
-</p>
 
 --- 
 
