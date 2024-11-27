@@ -1,4 +1,4 @@
-<img align="center">
+<img align="center" src="https://github.com/0bs1dian-hub/0bs1dian-hub/blob/main/titulo.png">
 <h3 align="left">Sobre mim</h3>
 <p>
 
