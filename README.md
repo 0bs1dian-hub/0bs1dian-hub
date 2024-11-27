@@ -31,6 +31,7 @@
 - **LinkedIn:** https://www.linkedin.com/in/lucas-henrique-26411133b/
 - **E-mail:** lucash3nriqu3@hotmail.com
 - **Instagram:** https://www.instagram.com/lucas_h3nr/?__pwa=1
+- **Celular:** (31) 9 7556-7545
 
   
 
